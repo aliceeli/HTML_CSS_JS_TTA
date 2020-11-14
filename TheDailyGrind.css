@@ -1,11 +1,13 @@
 body {
  background-color: #AF7941;
+ Text-align: center;
 }
 
 h1 {
  color: #42260A;
+ background-color:#FFE5B1;
 }
 
 hr {
- color: #000000;
+ border-color:#000000
 }
