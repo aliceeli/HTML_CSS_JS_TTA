@@ -1,1 +1,1 @@
-# HTML_CSS_TTA
+# HTML and CSS files for TTA course
